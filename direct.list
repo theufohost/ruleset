@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,54lee.com
 DOMAIN-SUFFIX,iopq.net
 DOMAIN-SUFFIX,iopq.com
+DOMAIN-SUFFIX,msftncsi.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
